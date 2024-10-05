@@ -1,0 +1,6 @@
+@DAW.PC1.API_HostAddress = http://localhost:5270
+
+GET {{DAW.PC1.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
